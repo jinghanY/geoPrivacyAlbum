@@ -2,7 +2,7 @@
 
 # Protecting Geolocation Privacy of Photo Collections (AAAI-2020) 
 
-[[arXiv]](http://arxiv.org/abs/1912.02085) **extended version**
+[[arXiv]](http://arxiv.org/abs/1912.02085) **Extended version**
 
 
 
